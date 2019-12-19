@@ -1,0 +1,4636 @@
+{
+    "data": [
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 0
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 120.12149810791016
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240.23990631103516
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 360.3400192260742
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 480.43495178222656
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 600.5296859741211
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 720.625244140625
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 840.7195434570312
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 960.8108444213867
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 1080.8759460449219
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 1200.9739227294922
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 1321.0750274658203
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 1441.1621780395508
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 1561.2800750732422
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 1681.3466110229492
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 1801.4052658081055
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 1921.4743041992188
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 2041.5907592773438
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 2161.722526550293
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 2281.852149963379
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 2401.952278137207
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 2522.0337142944336
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 2642.181854248047
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 2763.127716064453
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 2883.2475051879883
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3003.495536804199
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3123.553871154785
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3243.6232299804688
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3363.708641052246
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3483.777633666992
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3603.845039367676
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3723.9086685180664
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3843.997200012207
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 3964.07755279541
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 4084.2022705078125
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 4204.2775955200195
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 4324.390411376953
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 4444.504547119141
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 4564.594139099121
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 4684.694580078125
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 4804.770004272461
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 4924.848030090332
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 5044.972984313965
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 5165.034866333008
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 5285.125221252441
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 5405.198554992676
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 5525.2576904296875
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 5645.346405029297
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 5765.464210510254
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 5885.555114746094
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6005.621315002441
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6125.712020874023
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6245.780487060547
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6365.881622314453
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6485.951171875
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6606.012992858887
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6726.1960525512695
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6846.2585372924805
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 6966.4014892578125
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 7086.48388671875
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 7206.5627517700195
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 7326.61799621582
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 7446.708526611328
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 7566.787506103516
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 7686.880760192871
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 7806.971832275391
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 7927.106407165527
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 8047.214324951172
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 8167.295234680176
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 8287.391777038574
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 8407.452651977539
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 8527.607429504395
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 8647.68839263916
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 8767.777603149414
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 8887.842796325684
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9007.954986572266
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9128.039901733398
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9248.172088623047
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9368.280616760254
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9488.394371032715
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9608.518997192383
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9728.631935119629
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9848.741752624512
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 9968.857803344727
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 10088.950271606445
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 24489.643867492676
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 24609.866325378418
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 24730.097457885742
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 24850.27889251709
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 24970.41574859619
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 25090.532417297363
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 25210.6736907959
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 25330.806343078613
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 25450.90795135498
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 25571.0122756958
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 25691.146682739258
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 25811.30958557129
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 25931.423225402832
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 26051.551475524902
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 26171.70467376709
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 26291.849563598633
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 26411.949935913086
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 26532.112190246582
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 26652.249839782715
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 26772.37808227539
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 26892.515647888184
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27012.642028808594
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27132.78212738037
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27252.93946838379
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27373.06549835205
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27493.160736083984
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27613.523597717285
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27733.68039703369
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27853.81731414795
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 27973.934844970703
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 28094.068298339844
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 28214.169456481934
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 28334.309341430664
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 28454.498329162598
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 28574.59312438965
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 28694.768341064453
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 28814.87783050537
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 28935.010139465332
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 29055.130661010742
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 29175.26658630371
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 29295.402992248535
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 29415.504608154297
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 29535.606521606445
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 29655.740089416504
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 29775.883338928223
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 29895.987182617188
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37022.99799346924
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37143.006439208984
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37222.56156158447
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37342.68901062012
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37466.334213256836
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37586.501319885254
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37706.696464538574
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37826.8516998291
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 37946.986671447754
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 38067.11177062988
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 38187.25176239014
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 38307.333251953125
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 38427.46099090576
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 38547.54384613037
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 38667.7193069458
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 38787.88883972168
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 38908.024589538574
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 39028.13089752197
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 39148.27194976807
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 39268.36568450928
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 146971.4778060913
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 147091.60147094727
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 147211.70809173584
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 147331.78956604004
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 147451.90323638916
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 147571.97157287598
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 147692.06615447998
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 147812.1832962036
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 147932.28455352783
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 148052.3882369995
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 148172.47092437744
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 148292.579246521
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 148412.69299316406
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 148532.80155944824
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 148652.9133529663
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 148773.06212615967
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 148893.19263458252
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149013.31385803223
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149133.42282104492
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149253.50551605225
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149373.60348510742
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149493.70456695557
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149613.83805084229
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149733.92250823975
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149854.03971099854
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 149974.15786743164
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 150094.23890686035
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 150214.36866760254
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 150334.4568939209
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 150454.57260894775
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 150574.7488708496
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 150694.87426757812
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 150815.00254058838
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 150935.1018447876
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 151055.2007369995
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 151175.2844696045
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 151295.41048431396
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 151415.5447998047
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 151535.72590637207
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 151655.8960723877
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 151776.0735015869
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 151896.2442855835
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152016.3879928589
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152136.5358428955
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152256.69031524658
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152376.82862854004
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152496.96628570557
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152617.13961791992
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152737.32012176514
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152857.4852218628
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 152977.66410827637
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 153097.85776519775
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 153218.02880859375
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 153338.17126464844
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 153458.31018829346
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 153578.45684051514
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 153698.64011383057
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 153818.81964111328
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 153938.97716522217
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 154059.10948944092
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 154179.25178527832
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 154299.49182891846
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 154419.6621017456
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 154539.80140686035
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 154659.93784332275
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 154780.10019683838
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 154900.27220916748
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155020.76985931396
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155140.89434814453
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155261.02150726318
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155381.1529159546
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155501.25034332275
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155621.36171722412
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155741.4732208252
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155861.55389404297
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 155981.66361236572
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 156101.75115966797
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 156221.83112335205
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 156341.9087524414
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 217323.8932952881
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 217443.97204589844
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 217564.12602996826
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 217684.21635437012
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 217804.30741119385
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 217924.39916229248
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 218044.49002838135
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 218164.5965270996
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 218284.68738555908
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 218404.77825164795
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 218524.88474273682
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 218645.02333831787
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 218765.13008117676
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 218885.2367401123
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219005.35946655273
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219125.48197937012
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219245.58892059326
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219365.75830841064
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219485.86534881592
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219605.95652008057
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219726.0950012207
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219846.2175064087
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 219966.33987426758
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 220086.4623413086
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 220206.58238220215
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 220326.65839385986
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 220446.7656097412
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 220566.8882675171
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 220686.99545288086
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 220807.1024093628
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 220927.20986938477
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 221047.31649017334
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 221167.4239654541
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 221287.5315093994
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 221407.65409088135
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 221527.7296142578
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 221647.8366546631
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 221767.9437713623
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 221888.05101776123
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222008.1731414795
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222128.27980804443
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222248.3871459961
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222368.49369812012
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222488.5848312378
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222608.7071685791
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222728.79823303223
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222848.88953399658
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 222969.0117111206
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 223089.0874786377
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 223209.2103652954
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 223329.31707000732
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 223449.43970489502
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 223569.55709838867
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 223689.68343353271
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 223809.82308197021
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 223929.9446182251
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 224050.05461120605
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 224170.14366912842
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 224290.2969970703
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 224410.45970916748
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 224530.58151245117
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 224650.72514343262
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 224770.81443023682
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 224890.9048614502
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225010.99270629883
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225131.12837982178
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225251.336479187
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225371.44826507568
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225491.53224945068
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225611.61291503906
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225731.70933532715
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225851.81968688965
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 225971.92623138428
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 226092.02655029297
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 226212.11966705322
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 226332.47498321533
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 226452.64791107178
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 226572.85298919678
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 226693.23264312744
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 226813.46085357666
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 226933.64833068848
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 227053.81840515137
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 227173.95449829102
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 227294.076713562
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 227414.21881866455
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 227534.58451080322
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 227654.7180480957
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 227774.87447357178
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 227894.9949645996
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228015.12174987793
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228135.24059295654
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228255.36679077148
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228375.5171585083
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228495.6732559204
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228615.79634094238
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228735.9468612671
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228856.1028060913
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 228976.25527191162
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 229096.3662185669
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 229216.53604125977
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 229336.6457672119
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 229456.7537841797
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 229577.0311126709
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 229697.19526672363
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 229817.2984161377
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 229937.391456604
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 230057.49952697754
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 230177.64380645752
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 230297.80870819092
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 230417.9281463623
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 230538.0669784546
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 230658.18271636963
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 230778.29801940918
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 230898.39631652832
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231018.50996398926
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231138.62380981445
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231258.7798690796
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231378.8842010498
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231499.01287078857
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231619.1686859131
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231739.28861999512
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231859.39823150635
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 231979.50736999512
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 232099.62086486816
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 232219.76266479492
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 232339.88329315186
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 232460.10682678223
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 232580.24463653564
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 232700.35131835938
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 232820.44722747803
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 232940.541847229
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 233060.6448059082
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 233180.7363204956
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 233300.8452987671
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 233420.94792175293
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 233541.04949188232
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 233661.1964416504
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 233781.3106765747
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 233901.47026062012
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234021.59465026855
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234141.81060028076
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234265.8853378296
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234386.3053894043
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234506.77309417725
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234627.4242401123
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234748.4136428833
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234869.0208053589
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 234995.32006072998
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 235124.1456451416
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 235244.6679611206
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 235365.71002960205
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 235486.192527771
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 235606.33894348145
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 235726.46378326416
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 235846.56143951416
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 235966.69090270996
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 236086.8203277588
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 236206.9577331543
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 236327.06951141357
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 236447.2030029297
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 236567.31315612793
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 236687.43964385986
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 236807.7007598877
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 236928.4597015381
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 237048.60451507568
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 237169.10409545898
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 237289.2555923462
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 237409.36669158936
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 237529.52032470703
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 237650.85163116455
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 237770.94854736328
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 237891.05582427979
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238011.15185546875
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238131.2544708252
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238251.35819244385
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238371.46015167236
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238491.56480407715
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238611.6690826416
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238731.75898742676
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238851.84941101074
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 238972.07761383057
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 239092.19523620605
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 239212.36739349365
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 239332.86946105957
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 239453.18292999268
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 239573.28188323975
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 239693.37155914307
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 239813.47491455078
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 239933.58757781982
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240053.70554351807
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240173.8342819214
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240293.960395813
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240414.10343170166
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240534.19942474365
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240654.31269836426
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240774.40453338623
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 240894.54438781738
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241014.67318725586
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241134.96384429932
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241256.28060150146
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241376.4035873413
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241496.5135345459
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241616.82710266113
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241737.23809051514
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241857.37287902832
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 241977.57946014404
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 242097.69847106934
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 242217.81703186035
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 242337.9514389038
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 242458.14572906494
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 242578.31927490234
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 242698.4340057373
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 242818.5812072754
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 242938.68200683594
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 243058.86028289795
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 243178.98793792725
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 243299.2970275879
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 243419.46054077148
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 243539.667678833
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 243659.82306671143
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 243779.90935516357
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 243899.99125671387
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244020.07096862793
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244140.16051483154
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244260.2712097168
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244380.3761062622
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244500.4829788208
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244620.6884613037
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244740.77920532227
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244860.87280273438
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 244980.9803466797
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 245101.07414245605
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 245221.1639175415
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 245341.25575256348
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 245461.35251617432
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 245581.46452331543
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 245701.59617614746
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 245821.68592834473
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 245941.83248138428
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 246061.94705963135
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 246182.07165527344
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 246302.17622375488
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 246422.3228225708
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 246542.46160888672
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 246662.59491729736
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 246782.75240325928
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 246902.91777801514
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247023.0618133545
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247143.19834899902
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247263.32651519775
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247383.43564605713
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247503.54501342773
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247623.6876373291
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247743.7877883911
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247863.89833831787
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 247983.9958343506
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 248104.13019561768
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 248225.35717010498
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 248345.60385131836
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 248465.78495025635
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 248585.91271209717
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 248706.0339050293
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 248826.1796951294
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 248946.28184509277
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 249066.3913192749
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 249186.49449920654
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 249306.61228179932
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 249426.73867797852
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 249546.83294677734
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 249666.9323348999
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 249787.0419769287
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 249907.16953277588
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250027.4525604248
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250147.5842437744
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250267.69469451904
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250387.9165649414
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250508.02953338623
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250628.1667022705
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250748.2970123291
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250868.4363861084
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 250988.5507736206
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 251108.67637634277
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 251228.79275512695
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 251348.93028259277
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 251469.04216003418
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 251589.20098114014
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 251709.35055541992
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 251829.46101379395
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 251949.59967803955
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 252069.71620941162
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 252189.8745727539
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 252310.05463409424
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 252430.20252227783
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 252550.35011291504
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 252670.5251083374
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 252790.68586730957
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 252910.7967224121
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253030.92348480225
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253151.0728225708
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253271.24403381348
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253391.4243774414
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253511.5643310547
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253631.70274353027
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253751.87776184082
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253872.02773284912
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 253992.29851531982
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 254112.48011779785
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 254232.6457672119
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 254352.821723938
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 254472.95024108887
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 254593.0505142212
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 254713.16971588135
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 254833.29791259766
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 254953.4153060913
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 255073.54691314697
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 255193.66285705566
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 255313.81967926025
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 255434.45179748535
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 255554.5573425293
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 255674.65908050537
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 255794.81494903564
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 255914.92831420898
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 256035.0654373169
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 256155.20803833008
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 256275.34497070312
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 256395.4874420166
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 256515.69983673096
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 256635.82913208008
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 256755.93604278564
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 322536.3532562256
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 322656.54473114014
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 322776.6901397705
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 322896.8773803711
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323017.02992248535
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323137.1895904541
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323257.35861206055
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323377.5581970215
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323497.66425323486
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323617.832069397
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323738.00325775146
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323858.17852020264
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 323978.30282592773
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 324098.41887664795
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 324218.59742736816
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 324338.7237854004
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 324458.86936950684
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 324578.96742248535
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 324699.1069717407
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 324819.260345459
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 324939.4966201782
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 325059.67307281494
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 325179.844581604
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 325300.0183792114
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 325420.1467971802
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 325540.3049926758
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 325660.4776992798
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 325780.61279296875
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 325900.7500152588
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326020.87816619873
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326141.0196533203
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326261.1732635498
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326381.3240432739
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326501.5224838257
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326621.6812210083
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326741.8269958496
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326861.9559173584
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 326982.09841918945
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 327102.26721954346
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 327222.3957595825
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 327342.5259475708
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 327462.6704711914
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 327582.83625793457
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 327702.9925689697
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 327823.1466445923
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 327943.2540740967
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 328063.42108917236
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 328183.5943374634
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 328303.7370223999
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 328423.8674316406
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 328543.9971694946
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 328664.1416244507
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 328784.2537307739
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 328904.37699890137
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 329024.496673584
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 329144.6912460327
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 329264.844581604
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 329384.99296569824
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 329505.09339141846
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 329625.2173309326
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 329809.2794342041
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 329929.43993377686
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 330049.6025543213
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 330169.83840179443
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 330289.99059295654
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 330410.11657714844
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 330530.2634277344
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 330650.39683532715
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 330770.53540802
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 333568.0893173218
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 333688.2211151123
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 333808.3546142578
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 333928.50746917725
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 334048.6284942627
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 334168.7591018677
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 334288.8850479126
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 334409.0007324219
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 334529.2221069336
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 334649.5051803589
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 334769.70344543457
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 334889.829788208
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335010.14478302
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335130.30352783203
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335250.45111083984
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335370.67512512207
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335490.86750793457
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335610.9956741333
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335731.1893463135
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335851.35886383057
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 335971.6820678711
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 336092.06549835205
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 336212.3218231201
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 336332.49243927
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 336452.64627838135
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 336572.9015197754
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 336693.08000946045
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 336813.2676010132
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 336933.4444656372
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 337053.75269317627
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 337173.95330810547
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 337294.1011276245
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 337414.3939361572
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 337534.53366851807
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 337654.65392303467
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 337774.7708129883
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 337894.9005432129
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338015.2409286499
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338135.42878723145
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338255.5429840088
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338375.65643310547
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338495.84519195557
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338616.02892303467
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338736.1452178955
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338856.31996917725
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 338976.4774093628
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 339096.67112731934
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 339216.9385070801
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 339337.1509246826
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 339457.33630371094
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 339578.3132247925
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 339698.7443008423
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 339818.9877548218
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 339939.16676330566
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 340059.3525619507
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 340179.4949951172
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 340299.64599609375
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 340419.7799987793
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 340539.8991165161
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 340660.05812835693
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 340780.1865005493
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 340900.3324890137
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341020.4594192505
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341140.6070098877
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341260.8734512329
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341381.00577545166
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341501.186958313
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341621.3505630493
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341741.449256897
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341861.5766143799
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 341981.68867492676
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 342101.8253250122
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 342222.0538711548
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 342342.311088562
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 342462.5234146118
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 342582.6401824951
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 342702.77180480957
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 342822.9228134155
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 342943.2247390747
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 343063.3744659424
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 343183.5092315674
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 343303.67837524414
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 343423.8508300781
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 343543.965133667
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 343664.1069869995
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 343784.2258453369
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 343904.404045105
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 344024.5525970459
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 344144.7025909424
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 344264.8582992554
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 377287.99253845215
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 377408.2170562744
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 377528.30701446533
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 377648.46756744385
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 377768.5919189453
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 377888.7005996704
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378008.82357788086
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378129.0822982788
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378249.28283691406
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378369.4493713379
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378489.55768585205
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378609.68268585205
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378729.85076904297
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378849.99688720703
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 378970.11196136475
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 379090.2557144165
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 379210.363243103
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 379330.51543426514
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 379450.65156555176
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 379570.8218154907
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 379690.96368408203
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 379811.08960723877
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 379931.20654296875
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 380051.3271713257
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 380171.48263549805
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 380291.5907211304
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 380411.704536438
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 380531.8458328247
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 380651.9654312134
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 380772.0919723511
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 380892.23681640625
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 381012.353553772
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 381132.473197937
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 381252.67558288574
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 381372.79808044434
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 381492.92193603516
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 381613.08556365967
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 381966.29595184326
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 382086.4817581177
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 382206.64640808105
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 382326.75450897217
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 382446.8824234009
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 382567.013961792
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 382687.14011383057
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 382807.28604125977
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 382927.4431991577
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 383047.5912704468
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 383167.7039260864
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 383287.93213653564
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 383408.1086502075
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 383528.2830505371
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 383648.4060974121
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 383768.52643585205
+        },
+        {
+            "Average line length": 34.2,
+            "Total number of lines in project": 1469,
+            "Total number of symbols in project": 50253,
+            "time": 383888.6524810791
+        }
+    ]
+}
