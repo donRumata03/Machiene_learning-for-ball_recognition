@@ -1,7 +1,7 @@
-#include <vector>
-#include <math.h>
-#include <iostream>
-#include <D:/Projects/Video_anal/Help_func.cpp>
+#ifndef TEST_GENERATOR_CPP
+#define TEST_GENERATOR_CPP
+
+#include "main.hpp"
 
 using namespace std;
 
@@ -92,3 +92,6 @@ class Test_Generator{
         
     }
 };
+
+
+#endif

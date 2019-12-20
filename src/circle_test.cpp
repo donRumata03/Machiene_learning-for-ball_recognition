@@ -1,29 +1,38 @@
-#include <iostream>
-#include <vector>
-#include <conio.h>
-#include <fstream>
-#include <D:\Projects\Video_anal\Machine_Learning\src\Circle finder.cpp>
-#include <D:\Projects\Video_anal\Machine_Learning\src\test_generator.cpp>
+#include "main.hpp"
 
 using namespace std;
 
+pms points;
+point cent(0, 0);
+pms edges;
+
+double f_to_plot(double r){
+    return fast_error_function(edges, circle(point(cent.x, cent.y), r));
+}
 
 int main(){
-    ofstream f("D:/Projects/Video_anal/Machine_Learning/res/data_for_graphing/error_func_test.txt");
-    Test_Generator t1(circle(point(0, 0), 100), point(-110, -110), point(110, 110), circle(point(0, 100), 100));
+    Test_Generator t1(circle(point(0, 0), 30), point(-110, -110), point(110, 110), circle(point(0, 30), 30));
     point_matrix mt = t1.generate_random_distortion();
     mt.print();
-    pms points = mt.get_points();
-    pms new_poiints;
-    point cent(0, 0);
-    double err;
-    for(double x = -200; x <= 200; x += 10){
-        cout << x << " " << err << endl;
-        err = error_function(points, circle(point(x, cent.y), 100));
-        f << x << " " << err << endl;
+    points = mt.get_points();
+    clear_plot();
+    /*
+    double minval = 999999;
+    double minindex = -1;
+    for(double i = 0; i < 40; i += 0.01){
+        double val = error_function(points, circle(cent.x, cent.y, i));
+        if (val < minval){
+            minval = val;
+            minindex = i;
+        }
     }
-    f.close();
-    system(python_command);
-    _getch();
+    cout << "Optimum at r = : " << minindex << "; It is: " << minval;
+    */
+    edges = detect_edges(points);
+    point_matrix(edges).print();
+    add_function_to_plot(f_to_plot, -1, 40, 0.01);
+    
+    show_plot();
+    _getwch();
     return 0;
 }

@@ -1,7 +1,7 @@
-#include <vector>
-#include <math.h>
-#include <iostream>
-#include <D:\Projects\Video_anal\Help_func.cpp>
+#ifndef CIRCLE_FINDER
+#define CIRCLE_FINDER
+
+#include "main.hpp"
 
 using namespace std;
 
@@ -29,26 +29,6 @@ pms generate_neighboors(point p){
     point_down.y--;
     point_left.x--;
     point_right.x++;
-    n.push_back(point_right);
-    n.push_back(point_left);
-    n.push_back(point_up);
-    n.push_back(point_down);
-    return n;
-}
-
-
-pms generate_neighboors(point p, int w, int h){
-    pms n;
-    point point_up = p.copy();
-    point point_down = p.copy();
-    point point_left = p.copy();
-    point point_right = p.copy(); 
-
-    point_up.y++;
-    point_down.y--;
-    point_left.x--;
-    point_right.x++;
-
     n.push_back(point_right);
     n.push_back(point_left);
     n.push_back(point_up);
@@ -85,8 +65,23 @@ double error_function(pms &points, circle c){
     double err = 0;
     for(int i = 0; i < edges.size(); i++){
         point this_point = point(edges.at(i).x, edges.at(i).y);
-        err += pow(point_circle_dist(this_point, c), POINT_DIST_POW);
+        err += pow((1 / point_circle_dist(this_point, c)), POINT_DIST_POW);
+        // err += log(1 / point_circle_dist(this_point, c));
     }
-    
     return err;
 }
+
+
+double fast_error_function(pms &edges, circle c){
+    double err = 0;
+    for(int i = 0; i < edges.size(); i++){
+        point this_point = point(edges.at(i).x, edges.at(i).y);
+        err += pow((1 / point_circle_dist(this_point, c)), POINT_DIST_POW);
+        // err += log(1 / point_circle_dist(this_point, c));
+    }
+    return err;
+}
+
+
+
+#endif
